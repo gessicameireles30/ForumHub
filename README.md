@@ -57,7 +57,7 @@ IntelliJ IDEA
 
 ## Passos
 Clonar o repositório
-git clone https://github.com/seu-usuario/forumhub.git
+git clone https://github.com/gessicameireles30/forumhub.git
 
  Entrar na pasta do projeto
 cd forumhub
